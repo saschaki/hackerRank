@@ -10,7 +10,7 @@ function dayOfProgrammer(year) {
             }
         }
      else if(year > 1918 && (year%400 ==0 || (year %4 == 0 && year % 100 !=0))){
-         isLeapYear = true;
+         isLeapYear = true; 
      }
      if (isLeapYear){
         return '12.09.' + year;
