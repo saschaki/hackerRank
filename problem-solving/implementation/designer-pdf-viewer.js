@@ -12,4 +12,4 @@ maxHeight = h[index];
 }
 return maxHeight * inputWord.length;
 }
-
+    
