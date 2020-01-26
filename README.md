@@ -13,7 +13,7 @@ My solutions to Hackerrank challenges.</br>
  [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem) |[Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/implementation/minimum-distances.js) |
  |[A](a) | [B](b)|
 
- |[A](a) | [B](b)|
+ |<a href="https://www.thesitewizard.com/" target="_blank">thesitewizard.com</a>| [B](b)|
  |[A](a) | [B](b)|
  |[A](a) | [B](b)|
 
