@@ -1,4 +1,4 @@
-//https://www.hackerrank.com/challenges/simple-array-sum/problem?h_r=profile
+//https://www.hackerrank.com/challenges/simple-array-sum/problem
 
 /*
  * Complete the simpleArraySum function below.

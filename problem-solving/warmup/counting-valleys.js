@@ -1,4 +1,4 @@
-//https://www.hackerrank.com/challenges/counting-valleys/problem?h_r=next-challenge&h_v=zen
+//https://www.hackerrank.com/challenges/counting-valleys/problem
 
 function countingValleys(n, s) {
 //n number of steps, s = path string

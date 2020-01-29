@@ -1,4 +1,4 @@
-//https://www.hackerrank.com/challenges/compare-the-triplets/problem?h_r=profile
+//https://www.hackerrank.com/challenges/compare-the-triplets/problem
 
 // Complete the compareTriplets function below.
 function compareTriplets(a, b) {

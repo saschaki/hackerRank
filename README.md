@@ -6,7 +6,7 @@ My solutions to Hackerrank challenges.</br>
 
 | Problem | My Solution |
 | ------- | ----------- |
-| [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|[Solution](https://www.hackerrank.com/challenges/angry-professor/problem) |
+| [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|[Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/implementation/angry-professor.js) |
 |[Beautyful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/implementation/beautyful-days-at-the-movies.js)|
 | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) |[Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/implementation/circular-array-rotation.js) |
 [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem) |[Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/implementation/minimum-distances.js) |
@@ -32,25 +32,28 @@ My solutions to Hackerrank challenges.</br>
 |[Birthday chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/warmup/birthday-chocolate.js)|
 |[Bon appetit](https://www.hackerrank.com/challenges/bon-appetit/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/warmup/bon-appetit.js)|
 |[Breaking the records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/warmup/breaking-the-records.js)|
-|[Cat and a mouse](a) | [Solution](b)|
-|[Compare the Triplets](a) | [Solution](b)|
-|[Counting valleys](a) | [Solution](b)|
-|[Day of the programmer](a) | [Solution](b)|
-|[Diagonal Difference](a) | [Solution](b)|
-|[Divisible Sum Pair](a) | [Solution](b)|
-|[Drawing Book](a) | [Solution](b)|
-|[Electronics Shop](a) | [Solution](b)|
-|[Fizzbuzz](a) | [Solution](b)|
-|[Grading Students](a) | [Solution](b)|
-|[Kangaroo](a) | [Solution](b)|
-|[Migratory Birds](a) | [Solution](b)|
-|[Min Max Sum](a) | [Solution](b)|
-|[Picking Numbers](a) | [Solution](b)|
-|[Plus Minus](a) | [Solution](b)|
-|[Simple Array Sum](a) | [Solution](b)|
-|[Sock Merchant](a) | [Solution](b)|
-|[Staircase](a) | [Solution](b)|
-|[Time Conversion](a) | [Solution](b)|
+|[Cat and a mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/warmup/cat-and-a-mouse.js)|
+|[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/warmup/compare-the-triplets.js)|
+|[Counting valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/warmup/counting-valleys.js)|
+|[Day of the programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/warmup/day-of-the-programmer.js)|
+|[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/warmup/diagonal-difference.js)|
+|[Divisible Sum Pair](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/warmup/divisible-sum-pair.js)|
+|[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/warmup/drawing-book.js)|
+|[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/warmup/electronics-shop.js)|
+|[Fizzbuzz](#) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/warmup/fizzbuzz.js)|
+|[Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/warmup/grading-students.js)|
+|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/warmup/kangaroo.js)|
+|[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/warmup/migratory-birds.js)|
+|[Min Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/warmup/min-max-sum.js)|
+|[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/warmup/picking-numbers.js)|
+|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/warmup/plus-minus.js)|
+|[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/warmup/simple-array-sum.js)|
+|[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/warmup/sock-merchant.js)|
+|[Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/warmup/staircase.js)|
+|[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/warmup/time-conversion.js)|
+|[Jumping on the clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/interview-preparation-kit/jumping-on-the-clouds.js)|
+|[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/interview-preparation-kit/repeated-string.js)|
+|[Array left rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/arrays/arrays-left-rotation.js)|
 |[A](a) | [Solution](b)|
 
 **[⬆ Back to Top](#table-of-contents)**
