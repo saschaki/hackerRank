@@ -1,4 +1,4 @@
-//  https://www.hackerrank.com/challenges/strange-advertising/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+//  https://www.hackerrank.com/challenges/strange-advertising/problem
 
 function viralAdvertising(n) {
     let cumulative = 0;
