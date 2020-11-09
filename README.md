@@ -12,10 +12,10 @@
          <img src="image/sascha.png" alt="View Profile" width="128" title="View Profile">
     </a>
 </p>
-## HackerRank Badges
 
-<img src="badges/problemSolving.png" alt="Problem Solving Silver Badge" height="100">
-<img src="10daysOfJs.png" alt="10 Days Bronze Badge" width="128">
+## HackerRank Badges
+![Problem Solving](badges/problemSolving.png)
+![10 Days of Javascript](10daysOfJs.png)
 
 ## HackerRank Certificates
 
@@ -104,7 +104,6 @@
         <img alt="HackerRank Logo" src="https://hrcdn.net/fcore/assets/brand/h_mark_sm-966d2b45e3.svg">
     </a>
 </p>
-
 
 
 
