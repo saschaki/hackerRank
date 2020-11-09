@@ -4,7 +4,7 @@
     </a>
 </p>
 
-# HackerRank | Practice, Tutorials & Interview Preparation Solutions
+# Practice, Tutorials & Interview Preparation Solutions
 
 ## Personal HackerRank Profile
 
@@ -14,11 +14,19 @@
 
 ## HackerRank Certificates
 
-<a href="Problem Solving (Basic)">
-    <img src="https://www.hackerrank.com/certificates/03623c6e5bc5" alt="Problem Solving (Basic) Certificate"/>
+[View Profile](https://www.hackerrank.com/sascha_kiefer)
+
+<a href="certificates/problemSolving.png">
+    <img src="certificates/problemSolving.png" alt="Problem Solving (Basic) Certificate"/>
 </a>
 
 ### Table of Contents
+
+* [10 Days of JavaScript](#10-days-of-javascript)
+* [Challenges](#Challenges)
+
+
+### Challenges
 
 | Problem | My Solution |
 | ------- | ----------- |
@@ -71,10 +79,6 @@
 |[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/interview-preparation-kit/repeated-string.js)|
 |[Array left rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/arrays/arrays-left-rotation.js)|
 |[A](a) | [Solution](b)|
-
-## Tutorials in Progress
-
-* [10 Days of JavaScript](#10-days-of-javascript)
 
 ### 10 Days of JavaScript
 
