@@ -1,6 +1,22 @@
-# hackerRank </br>
+<p align="center">
+    <a href="https://www.hackerrank.com/sascha_kiefer">
+        <img alt="HackerRank Logo | Sascha Kiefer Profile" src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg" >
+    </a>
+</p>
 
-My solutions to Hackerrank challenges.</br>
+# HackerRank | Practice, Tutorials & Interview Preparation Solutions
+
+## Personal HackerRank Profile
+
+[View Profile](https://www.hackerrank.com/sascha_kiefer)
+
+## HackerRank Badges
+
+## HackerRank Certificates
+
+<a href="Problem Solving (Basic)">
+    <img src="https://www.hackerrank.com/certificates/03623c6e5bc5" alt="Problem Solving (Basic) Certificate"/>
+</a>
 
 ### Table of Contents
 
@@ -56,7 +72,31 @@ My solutions to Hackerrank challenges.</br>
 |[Array left rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [Solution](https://github.com/saschaki/hackerRank/blob/master/arrays/arrays-left-rotation.js)|
 |[A](a) | [Solution](b)|
 
+## Tutorials in Progress
+
+* [10 Days of JavaScript](#10-days-of-javascript)
+
+### 10 Days of JavaScript
+
+| Problem | My Solution |
+| ------- | ----------- |
+| [Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem)|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day00/dataTypes.js) |
+| [Hello World](https://www.hackerrank.com/challenges/js10-hello-world/problem)|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day00/helloWorld.js) |
+| [Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem)|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day01/arithmeticOperators.js) |
+| [Functions](https://www.hackerrank.com/challenges/js10-function/problem)|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day01/functions.js) |
+| [Let & Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem)|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/conditionalStatementsIfElse.js) |
+| [Conditional Statement : If & Else](https://www.hackerrank.com/challenges/js10-if-else/problem)|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/conditionalStatementsIfElse.js) |
+| [Conditional Statement : Switch](https://www.hackerrank.com/challenges/js10-switch/problem)|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/conditionalStatementsSwitch.js) |
+| [Loops](https://www.hackerrank.com/challenges/js10-loops/problem)|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/loops.js) |
+
+
 **[⬆ Back to Top](#table-of-contents)**
+
+<p align="center">
+    <a href="https://www.hackerrank.com/sascha_kiefer">
+        <img alt="HackerRank Logo" src="https://hrcdn.net/fcore/assets/brand/h_mark_sm-966d2b45e3.svg">
+    </a>
+</p>
 
 
 
