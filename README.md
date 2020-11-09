@@ -9,15 +9,16 @@
 ## Personal HackerRank Profile
 
 [View Profile](https://www.hackerrank.com/sascha_kiefer)
+<a href="https://www.hackerrank.com/sascha_kiefer">
+    <img src="image/sascha.jpg" alt="View Profile" style="width:128px; height: 128px;">
+</a>
 
 ## HackerRank Badges
 
 ## HackerRank Certificates
 
-[View Profile](https://www.hackerrank.com/sascha_kiefer)
-
 <a href="certificates/problemSolving.png">
-    <img src="certificates/problemSolving.png" alt="Problem Solving (Basic) Certificate"/>
+    <img src="certificates/problemSolving.png" alt="Problem Solving (Basic) Certificate" style="width:128px; height: 128px;">
 </a>
 
 ### Table of Contents
