@@ -14,8 +14,8 @@
 </p>
 
 ## HackerRank Badges
-![Problem Solving](badges/problemSolving.png)
-![10 Days of Javascript](10daysOfJs.png)
+![Problem Solving](badges/problemSolvingSilver.png)
+![10 Days of Javascript](badges/10daysOfJs.png)
 
 ## HackerRank Certificates
 
