@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/js10-data-types/problem?h_r=next-challenge&h_v=zen
+// https://www.hackerrank.com/challenges/js10-data-types/problem
 
 /**
 *   The variables 'firstInteger', 'firstDecimal', and 'firstString' are declared for you -- do not modify them.
