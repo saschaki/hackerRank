@@ -1,5 +1,4 @@
-// https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?h_r=next-challenge&h_v=zen
-
+// https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
 function beautifulDays(i, j, k) {
 let count = 0;
 for(let v=i; v<=j; v++) {
