@@ -7,18 +7,20 @@
 # Practice, Tutorials & Interview Preparation Solutions
 
 ## Personal HackerRank Profile
-
-[View Profile](https://www.hackerrank.com/sascha_kiefer)
-<a href="https://www.hackerrank.com/sascha_kiefer">
-    <img src="image/sascha.jpg" alt="View Profile" style="width:128px; height: 128px;">
-</a>
-
+<p align="center">
+    <a href="https://www.hackerrank.com/sascha_kiefer">
+         <img src="image/sascha.png" alt="View Profile" width="128" title="View Profile">
+    </a>
+</p>
 ## HackerRank Badges
+
+<img src="badges/problemSolving.png" alt="Problem Solving Silver Badge" height="100">
+<img src="10daysOfJs.png" alt="10 Days Bronze Badge" width="128">
 
 ## HackerRank Certificates
 
 <a href="certificates/problemSolving.png">
-    <img src="certificates/problemSolving.png" alt="Problem Solving (Basic) Certificate" style="width:128px; height: 128px;">
+    <img src="certificates/problemLink.png" alt="Problem Solving (Basic) Certificate" height="100">
 </a>
 
 ### Table of Contents
