@@ -5,6 +5,8 @@
 </p>
 
 # Practice, Tutorials & Interview Preparation Solutions
+[![GitHub last commit](https://img.shields.io/github/last-commit/saschaki/hackerRank)](https://github.com/saschaki/hackerRank/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/saschaki/hackerRank)](https://github.com/saschaki/hackerRank/archive/master.zip)
 
 ## Personal HackerRank Profile
 <p align="center">
