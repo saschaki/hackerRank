@@ -94,6 +94,9 @@
 | [Conditional Statement : If & Else](https://www.hackerrank.com/challenges/js10-if-else/problem)|Easy | 10|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/conditionalStatementsIfElse.js) |
 | [Conditional Statement : Switch](https://www.hackerrank.com/challenges/js10-switch/problem)|Easy | 10|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/conditionalStatementsSwitch.js) |
 | [Loops](https://www.hackerrank.com/challenges/js10-loops/problem)|Easy | 10|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/loops.js) |
+| [Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day03/arrays.js) |
+| [Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day03/tryCatchAndFinally.js) |
+| [Throw](https://www.hackerrank.com/challenges/js10-throw/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day03/throw.js) |
 
 
 **[⬆ Back to Top](#table-of-contents)**
