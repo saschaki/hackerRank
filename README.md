@@ -80,20 +80,20 @@
 |[Jumping on the clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)  |Easy | 20| [Solution](https://github.com/saschaki/hackerRank/blob/master/interview-preparation-kit/jumping-on-the-clouds.js)|
 |[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)  |Easy | 20| [Solution](https://github.com/saschaki/hackerRank/blob/master/interview-preparation-kit/repeated-string.js)|
 |[Array left rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)  |Easy | 20| [Solution](https://github.com/saschaki/hackerRank/blob/master/arrays/arrays-left-rotation.js)|
-|[A](a)  |Easy | 20| [Solution](b)|
+|[A](#)  |Easy | 20| [Solution](#)|
 
 ### 10 Days of JavaScript
 
-| Problem | My Solution |
-| ------- | ----------- |
-| [Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem)|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day00/dataTypes.js) |
-| [Hello World](https://www.hackerrank.com/challenges/js10-hello-world/problem)|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day00/helloWorld.js) |
-| [Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem)|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day01/arithmeticOperators.js) |
-| [Functions](https://www.hackerrank.com/challenges/js10-function/problem)|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day01/functions.js) |
-| [Let & Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem)|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/conditionalStatementsIfElse.js) |
-| [Conditional Statement : If & Else](https://www.hackerrank.com/challenges/js10-if-else/problem)|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/conditionalStatementsIfElse.js) |
-| [Conditional Statement : Switch](https://www.hackerrank.com/challenges/js10-switch/problem)|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/conditionalStatementsSwitch.js) |
-| [Loops](https://www.hackerrank.com/challenges/js10-loops/problem)|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/loops.js) |
+| Problem | Difficulty | Score | My Solution |
+| :-------: | :------: | :---: |:-----------: |
+| [Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem) | Easy | 10 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day00/dataTypes.js) |
+| [Hello World](https://www.hackerrank.com/challenges/js10-hello-world/problem)| Easy | 10 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day00/helloWorld.js) |
+| [Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem)|Easy | 10 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day01/arithmeticOperators.js) |
+| [Functions](https://www.hackerrank.com/challenges/js10-function/problem) | Easy | 10 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day01/functions.js) |
+| [Let & Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem) |Easy | 10|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/conditionalStatementsIfElse.js) |
+| [Conditional Statement : If & Else](https://www.hackerrank.com/challenges/js10-if-else/problem)|Easy | 10|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/conditionalStatementsIfElse.js) |
+| [Conditional Statement : Switch](https://www.hackerrank.com/challenges/js10-switch/problem)|Easy | 10|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/conditionalStatementsSwitch.js) |
+| [Loops](https://www.hackerrank.com/challenges/js10-loops/problem)|Easy | 10|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/loops.js) |
 
 
 **[⬆ Back to Top](#table-of-contents)**
