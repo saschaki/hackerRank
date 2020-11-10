@@ -80,7 +80,7 @@
 |[Jumping on the clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)  |Easy | 20| [Solution](https://github.com/saschaki/hackerRank/blob/master/interview-preparation-kit/jumping-on-the-clouds.js)|
 |[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)  |Easy | 20| [Solution](https://github.com/saschaki/hackerRank/blob/master/interview-preparation-kit/repeated-string.js)|
 |[Array left rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)  |Easy | 20| [Solution](https://github.com/saschaki/hackerRank/blob/master/arrays/arrays-left-rotation.js)|
-|[A](#)  |Easy | 20| [Solution](#)|
+|[placeholder](#)  |Easy | 20| [Solution](#)|
 
 ### 10 Days of JavaScript
 
@@ -97,6 +97,10 @@
 | [Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day03/arrays.js) |
 | [Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day03/tryCatchAndFinally.js) |
 | [Throw](https://www.hackerrank.com/challenges/js10-throw/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day03/throw.js) |
+| [Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day04/createARectangleObject.js) |
+| [Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day04/countObjects.js) |
+| [Classes](https://www.hackerrank.com/challenges/js10-class/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day04/classes.js) |
+| [placeholder](#)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/#) |
 
 
 **[⬆ Back to Top](#table-of-contents)**
