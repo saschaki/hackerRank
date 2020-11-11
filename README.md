@@ -102,6 +102,9 @@
 | [Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day04/createARectangleObject.js) |
 | [Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day04/countObjects.js) |
 | [Classes](https://www.hackerrank.com/challenges/js10-class/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day04/classes.js) |
+| [Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day05/inheritance.js) |
+| [Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day05/templateLiterals.js) |
+| [Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day05/arrowFunctions.js) |
 | [placeholder](#)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/#) |
 
 
