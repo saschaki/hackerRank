@@ -86,26 +86,26 @@
 
 ### 10 Days of JavaScript
 
-| Problem | Difficulty | Score | My Solution |
-| :-------: | :------: | :---: |:-----------: |
-| [Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem) | Easy | 10 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day00/dataTypes.js) |
-| [Hello World](https://www.hackerrank.com/challenges/js10-hello-world/problem)| Easy | 10 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day00/helloWorld.js) |
-| [Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem)|Easy | 10 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day01/arithmeticOperators.js) |
-| [Functions](https://www.hackerrank.com/challenges/js10-function/problem) | Easy | 10 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day01/functions.js) |
-| [Let & Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem) |Easy | 10|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/conditionalStatementsIfElse.js) |
-| [Conditional Statement : If & Else](https://www.hackerrank.com/challenges/js10-if-else/problem)|Easy | 10|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/conditionalStatementsIfElse.js) |
-| [Conditional Statement : Switch](https://www.hackerrank.com/challenges/js10-switch/problem)|Easy | 10|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/conditionalStatementsSwitch.js) |
-| [Loops](https://www.hackerrank.com/challenges/js10-loops/problem)|Easy | 10|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/loops.js) |
-| [Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day03/arrays.js) |
-| [Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day03/tryCatchAndFinally.js) |
-| [Throw](https://www.hackerrank.com/challenges/js10-throw/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day03/throw.js) |
-| [Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day04/createARectangleObject.js) |
-| [Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day04/countObjects.js) |
-| [Classes](https://www.hackerrank.com/challenges/js10-class/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day04/classes.js) |
-| [Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day05/inheritance.js) |
-| [Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day05/templateLiterals.js) |
-| [Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day05/arrowFunctions.js) |
-| [placeholder](#)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/#) |
+| Day | Problem | Difficulty | Score | My Solution |
+| :---:| :-------: | :------: | :---: |:-----------: |
+| 00 | [Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem) | Easy | 10 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day00/dataTypes.js) |
+| 00 | [Hello World](https://www.hackerrank.com/challenges/js10-hello-world/problem)| Easy | 10 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day00/helloWorld.js) |
+| 01 | [Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem)|Easy | 10 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day01/arithmeticOperators.js) |
+| 01 | [Functions](https://www.hackerrank.com/challenges/js10-function/problem) | Easy | 10 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day01/functions.js) |
+| 01 | [Let & Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem) |Easy | 10|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/conditionalStatementsIfElse.js) |
+| 02 | [Conditional Statement : If & Else](https://www.hackerrank.com/challenges/js10-if-else/problem)|Easy | 10|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/conditionalStatementsIfElse.js) |
+| 02 | [Conditional Statement : Switch](https://www.hackerrank.com/challenges/js10-switch/problem)|Easy | 10|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/conditionalStatementsSwitch.js) |
+| 02 | [Loops](https://www.hackerrank.com/challenges/js10-loops/problem)|Easy | 10|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day02/loops.js) |
+| 03 | [Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day03/arrays.js) |
+| 03 | [Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day03/tryCatchAndFinally.js) |
+| 03 | [Throw](https://www.hackerrank.com/challenges/js10-throw/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day03/throw.js) |
+| 04 | [Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day04/createARectangleObject.js) |
+| 04 | [Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day04/countObjects.js) |
+| 04 | [Classes](https://www.hackerrank.com/challenges/js10-class/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day04/classes.js) |
+| 05 | [Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day05/inheritance.js) |
+| 05 | [Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day05/templateLiterals.js) |
+| 05 | [Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day05/arrowFunctions.js) |
+| -- | [placeholder](#)| Easy | 15 |[Solution](https://github.com/saschaki/hackerRank/blob/master/#) |
 
 
 **[⬆ Back to Top](#table-of-contents)**
