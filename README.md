@@ -107,7 +107,10 @@
 | 05 | [Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day05/arrowFunctions.js) |
 | 06 | [Bitwise Operator](https://www.hackerrank.com/challenges/js10-bitwise/problem)| Easy | 15 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day06/bitwiseOperators.js) |
 | 06 | [JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem)| Easy | 15 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day06/javaScriptDates.js) |
-<!-- | -- | [placeholder](#)| Easy | 15 |[Solution](https://github.com/saschaki/hackerRank/blob/master/#) | -->
+| 07 | [Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem)| Easy | 15 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day07/regularExpressions1.js) |
+| 07 | [Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem)| Easy | 15 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day07/regularExpressions2.js) |
+| 07 | [Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem)| Easy | 15 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day07/regularExpressions3.js) |
+<!-- | -- | [placeholder](#)| Easy | 15 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day0#/) | -->
 
 
 **[⬆ Back to Top](#table-of-contents)**
