@@ -110,7 +110,7 @@
 | 07 | [Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem)| Easy | 15 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day07/regularExpressions1.js) |
 | 07 | [Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem)| Easy | 15 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day07/regularExpressions2.js) |
 | 07 | [Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem)| Easy | 15 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day07/regularExpressions3.js) |
-<!-- | -- | [placeholder](#)| Easy | 15 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day0#/) | -->
+| -- | [Create a button](https://www.hackerrank.com/challenges/js10-create-a-button?hr_b=1)| Easy | 20 |<span style="color: red">Challenge is broken</span> |
 
 
 **[⬆ Back to Top](#table-of-contents)**
