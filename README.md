@@ -82,7 +82,7 @@
 |[Jumping on the clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)  |Easy | 20| [Solution](https://github.com/saschaki/hackerRank/blob/master/interview-preparation-kit/jumping-on-the-clouds.js)|
 |[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)  |Easy | 20| [Solution](https://github.com/saschaki/hackerRank/blob/master/interview-preparation-kit/repeated-string.js)|
 |[Array left rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)  |Easy | 20| [Solution](https://github.com/saschaki/hackerRank/blob/master/arrays/arrays-left-rotation.js)|
-|[placeholder](#)  |Easy | 20| [Solution](#)|
+<!-- |[placeholder](#)  |Easy | 20| [Solution](#)| -->
 
 ### 10 Days of JavaScript
 
@@ -105,7 +105,9 @@
 | 05 | [Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day05/inheritance.js) |
 | 05 | [Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day05/templateLiterals.js) |
 | 05 | [Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem)|Easy | 15|[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day05/arrowFunctions.js) |
-| -- | [placeholder](#)| Easy | 15 |[Solution](https://github.com/saschaki/hackerRank/blob/master/#) |
+| 06 | [Bitwise Operator](https://www.hackerrank.com/challenges/js10-bitwise/problem)| Easy | 15 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day06/bitwiseOperators.js) |
+| 06 | [JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem)| Easy | 15 |[Solution](https://github.com/saschaki/hackerRank/blob/master/10-days-of-javascript/day06/javaScriptDates.js) |
+<!-- | -- | [placeholder](#)| Easy | 15 |[Solution](https://github.com/saschaki/hackerRank/blob/master/#) | -->
 
 
 **[⬆ Back to Top](#table-of-contents)**
