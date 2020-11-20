@@ -37,6 +37,7 @@
 | Problem | Difficulty | Score | My Solution |
 | :-------: | :------: | :---: |:-----------: |
 | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)| Medium | 20 | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/implementation/extraLongFactorials.js) |
+| [Cut The Sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)| Easy | 25 | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/implementation/cut-the-sticks.js) |
 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)| Easy | 20 | [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/implementation/angry-professor.js) |
 |[Beautyful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) |Easy | 15| [Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/implementation/beautyful-days-at-the-movies.js)|
 | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) |Easy | 20 |[Solution](https://github.com/saschaki/hackerRank/blob/master/problem-solving/implementation/circular-array-rotation.js) |
